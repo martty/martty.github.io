@@ -21,8 +21,6 @@ timezone: Europe/London
 
 title: Pain au GPU                          # the main title
 
-future: false
-
 tagline: Ramblings of the third graphic kind   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
